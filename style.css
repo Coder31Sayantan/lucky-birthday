@@ -1,0 +1,29 @@
+*{
+    margin: auto;
+    align-items: center;
+    padding: 0.5rem;
+}
+
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(28, 229, 175);
+}
+.container{
+    width: 50%;
+    margin: auto;
+    padding: auto;
+}
+input,label{
+    display:block;
+}
+input{
+    margin-bottom: 1rem;
+    width: 50%;
+}
+#check-button{
+    display: block;
+    margin-top: 1rem;
+    margin: auto;
+}
